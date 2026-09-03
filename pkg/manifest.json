@@ -1,0 +1,9 @@
+{
+  "name": "Drakkar Shrinker",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/bcbry/SmallerDrakkar",
+  "description": "Makes Valheim's Drakkar ship smaller with a configurable uniform scale.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2333"
+  ]
+}
